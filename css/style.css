@@ -1,0 +1,33 @@
+.nav{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding: 15px;
+    width: 12%;
+    text-align: center;
+    }
+#wholenav {
+    background-color: gray;
+}
+.left {
+    float: left;
+    width: 30%;
+    background-color: blue;
+    height: 750px;
+}
+.right {
+    float: left;
+    width: 70%;
+    background-color:teal;
+    height: 750px;
+}
+#top {
+    width: 100%;
+    background-color: orange;
+    height: 30%;
+}
+#bottom {
+    width: 100%;
+    background-color: orangered;
+    height: 70%;
+}
